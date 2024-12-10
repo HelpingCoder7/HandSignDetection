@@ -1,0 +1,33 @@
+# Python bytecode files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+
+# Virtual environments
+.env/
+.venv/
+env/
+venv/
+ENV/
+VENV/
+hand_detection_env/
+
+# IDE/editor config files
+.vscode/
+.idea/
+
+# Pytest
+.pytest_cache/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Distribution/Packaging
+.egg/
+.eggs/
+dist/
+build/
+*.egg-info/
+*.wheel
